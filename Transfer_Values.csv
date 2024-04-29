@@ -1,0 +1,448 @@
+Kit Number,Name,Position,Date of Birth,Market Value
+1,Alisson,Goalkeeper,"Oct 2, 1992 (31)",€32.00m
+62,Caoimhín Kelleher,Goalkeeper,"Nov 23, 1998 (25)",€15.00m
+13,Adrián,Goalkeeper,"Jan 3, 1987 (37)",€600k
+5,Ibrahima Konaté,Centre-Back,"May 25, 1999 (24)",€38.00m
+4,Virgil van Dijk,Centre-Back,"Jul 8, 1991 (32)",€32.00m
+2,Joe Gomez,Centre-Back,"May 23, 1997 (26)",€22.00m
+32,Joel Matip,Centre-Back,"Aug 8, 1991 (32)",€8.00m
+78,Jarell Quansah,Centre-Back,"Jan 29, 2003 (21)",€6.00m
+-,Rhys Williams,Centre-Back,"Feb 3, 2001 (23)",€1.80m
+26,Andrew Robertson,Left-Back,"Mar 11, 1994 (29)",€35.00m
+21,Konstantinos Tsimikas,Left-Back,"May 12, 1996 (27)",€22.00m
+66,Trent Alexander-Arnold,Right-Back,"Oct 7, 1998 (25)",€70.00m
+84,Conor Bradley,Right-Back,"Jul 9, 2003 (20)",€2.00m
+3,Wataru Endo,Defensive Midfield,"Feb 9, 1993 (30)",€13.00m
+43,Stefan Bajcetic,Defensive Midfield,"Oct 22, 2004 (19)",€11.00m
+8,Dominik Szoboszlai,Central Midfield,"Oct 25, 2000 (23)",€75.00m
+10,Alexis Mac Allister,Central Midfield,"Dec 24, 1998 (25)",€65.00m
+38,Ryan Gravenberch,Central Midfield,"May 16, 2002 (21)",€35.00m
+17,Curtis Jones,Central Midfield,"Jan 30, 2001 (23)",€30.00m
+6,Thiago,Central Midfield,"Apr 11, 1991 (32)",€10.00m
+19,Harvey Elliott,Attacking Midfield,"Apr 4, 2003 (20)",€30.00m
+7,Luis Díaz,Left Winger,"Jan 13, 1997 (27)",€75.00m
+18,Cody Gakpo,Left Winger,"May 7, 1999 (24)",€50.00m
+20,Diogo Jota,Left Winger,"Dec 4, 1996 (27)",€50.00m
+11,Mohamed Salah,Right Winger,"Jun 15, 1992 (31)",€65.00m
+50,Ben Doak,Right Winger,"Nov 11, 2005 (18)",€10.00m
+9,Darwin Núñez,Centre-Forward,"Jun 24, 1999 (24)",€65.00m
+31,Ederson,Goalkeeper,"Aug 17, 1993 (30)",€40.00m
+18,Stefan Ortega,Goalkeeper,"Nov 6, 1992 (31)",€9.00m
+33,Scott Carson,Goalkeeper,"Sep 3, 1985 (38)",€200k
+3,Rúben Dias,Centre-Back,"May 14, 1997 (26)",€80.00m
+24,Josko Gvardiol,Centre-Back,"Jan 23, 2002 (22)",€80.00m
+25,Manuel Akanji,Centre-Back,"Jul 19, 1995 (28)",€42.00m
+6,Nathan Aké,Centre-Back,"Feb 18, 1995 (28)",€40.00m
+5,John Stones,Centre-Back,"May 28, 1994 (29)",€38.00m
+21,Sergio Gómez,Left-Back,"Sep 4, 2000 (23)",€10.00m
+82,Rico Lewis,Right-Back,"Nov 21, 2004 (19)",€38.00m
+2,Kyle Walker,Right-Back,"May 28, 1990 (33)",€13.00m
+16,Rodri,Defensive Midfield,"Jun 22, 1996 (27)",€110.00m
+27,Matheus Nunes,Central Midfield,"Aug 27, 1998 (25)",€55.00m
+8,Mateo Kovacic,Central Midfield,"May 6, 1994 (29)",€38.00m
+20,Bernardo Silva,Attacking Midfield,"Aug 10, 1994 (29)",€80.00m
+17,Kevin De Bruyne,Attacking Midfield,"Jun 28, 1991 (32)",€60.00m
+10,Jack Grealish,Left Winger,"Sep 10, 1995 (28)",€70.00m
+11,Jérémy Doku,Left Winger,"May 27, 2002 (21)",€65.00m
+47,Phil Foden,Right Winger,"May 28, 2000 (23)",€110.00m
+52,Oscar Bobb,Right Winger,"Jul 12, 2003 (20)",€15.00m
+19,Julián Álvarez,Second Striker,"Jan 31, 2000 (24)",€90.00m
+9,Erling Haaland,Centre-Forward,"Jul 21, 2000 (23)",€180.00m
+24,André Onana,Goalkeeper,"Apr 2, 1996 (27)",€40.00m
+1,Altay Bayındır,Goalkeeper,"Apr 14, 1998 (25)",€10.00m
+22,Tom Heaton,Goalkeeper,"Apr 15, 1986 (37)",€250k
+6,Lisandro Martínez,Centre-Back,"Jan 18, 1998 (26)",€50.00m
+19,Raphaël Varane,Centre-Back,"Apr 25, 1993 (30)",€25.00m
+5,Harry Maguire,Centre-Back,"Mar 5, 1993 (30)",€20.00m
+2,Victor Lindelöf,Centre-Back,"Jul 17, 1994 (29)",€18.00m
+35,Jonny Evans,Centre-Back,"Jan 3, 1988 (36)",€2.00m
+53,Willy Kambwala,Centre-Back,"Aug 25, 2004 (19)",€2.00m
+23,Luke Shaw,Left-Back,"Jul 12, 1995 (28)",€38.00m
+12,Tyrell Malacia,Left-Back,"Aug 17, 1999 (24)",€18.00m
+20,Diogo Dalot,Right-Back,"Mar 18, 1999 (24)",€35.00m
+29,Aaron Wan-Bissaka,Right-Back,"Nov 26, 1997 (26)",€20.00m
+18,Casemiro,Defensive Midfield,"Feb 23, 1992 (31)",€30.00m
+4,Sofyan Amrabat,Defensive Midfield,"Aug 21, 1996 (27)",€28.00m
+39,Scott McTominay,Defensive Midfield,"Dec 8, 1996 (27)",€28.00m
+14,Christian Eriksen,Central Midfield,"Feb 14, 1992 (31)",€13.00m
+37,Kobbie Mainoo,Central Midfield,"Apr 19, 2005 (18)",€6.00m
+8,Bruno Fernandes,Attacking Midfield,"Sep 8, 1994 (29)",€70.00m
+7,Mason Mount,Attacking Midfield,"Jan 10, 1999 (25)",€45.00m
+47,Shola Shoretire,Attacking Midfield,"Feb 2, 2004 (20)",€4.00m
+10,Marcus Rashford,Left Winger,"Oct 31, 1997 (26)",€70.00m
+17,Alejandro Garnacho,Left Winger,"Jul 1, 2004 (19)",€30.00m
+21,Antony,Right Winger,"Feb 24, 2000 (23)",€35.00m
+16,Amad Diallo,Right Winger,"Jul 11, 2002 (21)",€18.00m
+11,Rasmus Højlund,Centre-Forward,"Feb 4, 2003 (21)",€65.00m
+9,Anthony Martial,Centre-Forward,"Dec 5, 1995 (28)",€15.00m
+22,Nick Pope,Goalkeeper,"Apr 19, 1992 (31)",€20.00m
+1,Martin Dúbravka,Goalkeeper,"Jan 15, 1989 (35)",€1.00m
+18,Loris Karius,Goalkeeper,"Jun 22, 1993 (30)",€1.00m
+29,Mark Gillespie,Goalkeeper,"Mar 27, 1992 (31)",€300k
+4,Sven Botman,Centre-Back,"Jan 12, 2000 (24)",€45.00m
+5,Fabian Schär,Centre-Back,"Dec 20, 1991 (32)",€10.00m
+6,Jamaal Lascelles,Centre-Back,"Nov 11, 1993 (30)",€7.00m
+3,Paul Dummett,Centre-Back,"Sep 26, 1991 (32)",€900k
+20,Lewis Hall,Left-Back,"Sep 8, 2004 (19)",€18.00m
+13,Matt Targett,Left-Back,"Sep 18, 1995 (28)",€10.00m
+33,Dan Burn,Left-Back,"May 9, 1992 (31)",€10.00m
+21,Tino Livramento,Right-Back,"Nov 12, 2002 (21)",€35.00m
+2,Kieran Trippier,Right-Back,"Sep 19, 1990 (33)",€11.00m
+17,Emil Krafth,Right-Back,"Aug 2, 1994 (29)",€2.50m
+39,Bruno Guimarães,Defensive Midfield,"Nov 16, 1997 (26)",€85.00m
+8,Sandro Tonali,Defensive Midfield,"May 8, 2000 (23)",€40.00m
+7,Joelinton,Central Midfield,"Aug 14, 1996 (27)",€42.00m
+28,Joe Willock,Central Midfield,"Aug 20, 1999 (24)",€35.00m
+36,Sean Longstaff,Central Midfield,"Oct 30, 1997 (26)",€25.00m
+67,Lewis Miley,Central Midfield,"May 1, 2006 (17)",€13.00m
+11,Matt Ritchie,Right Midfield,"Sep 10, 1989 (34)",€1.00m
+32,Elliot Anderson,Attacking Midfield,"Nov 6, 2002 (21)",€13.00m
+10,Anthony Gordon,Left Winger,"Feb 24, 2001 (22)",€50.00m
+15,Harvey Barnes,Left Winger,"Dec 9, 1997 (26)",€35.00m
+24,Miguel Almirón,Right Winger,"Feb 10, 1994 (29)",€30.00m
+23,Jacob Murphy,Right Winger,"Feb 24, 1995 (28)",€15.00m
+14,Alexander Isak,Centre-Forward,"Sep 21, 1999 (24)",€70.00m
+9,Callum Wilson,Centre-Forward,"Feb 27, 1992 (31)",€13.00m
+1,Matt Turner,Goalkeeper,"Jun 24, 1994 (29)",€10.00m
+23,Odysseas Vlachodimos,Goalkeeper,"Apr 26, 1994 (29)",€10.00m
+26,Matz Sels,Goalkeeper,"Feb 26, 1992 (31)",€7.00m
+13,Wayne Hennessey,Goalkeeper,"Jan 24, 1987 (37)",€250k
+40,Murillo,Centre-Back,"Jul 4, 2002 (21)",€22.00m
+19,Moussa Niakhaté,Centre-Back,"Mar 8, 1996 (27)",€16.00m
+32,Andrew Omobamidele,Centre-Back,"Jun 23, 2002 (21)",€11.00m
+30,Willy Boly,Centre-Back,"Feb 3, 1991 (33)",€2.50m
+18,Felipe,Centre-Back,"May 16, 1989 (34)",€1.50m
+3,Nuno Tavares,Left-Back,"Jan 26, 2000 (24)",€16.00m
+15,Harry Toffolo,Left-Back,"Aug 19, 1995 (28)",€5.00m
+7,Neco Williams,Right-Back,"Apr 13, 2001 (22)",€17.00m
+29,Gonzalo Montiel,Right-Back,"Jan 1, 1997 (27)",€10.00m
+43,Ola Aina,Right-Back,"Oct 8, 1996 (27)",€8.00m
+-,Richie Laryea,Right-Back,"Jan 7, 1995 (29)",€2.50m
+6,Ibrahim Sangaré,Defensive Midfield,"Dec 2, 1997 (26)",€32.00m
+8,Cheikhou Kouyaté,Defensive Midfield,"Dec 21, 1989 (34)",€1.00m
+28,Danilo,Central Midfield,"Apr 29, 2001 (22)",€28.00m
+16,Nicolás Domínguez,Central Midfield,"Jun 28, 1998 (25)",€17.00m
+22,Ryan Yates,Central Midfield,"Nov 21, 1997 (26)",€12.00m
+-,Harry Arter,Central Midfield,"Dec 28, 1989 (34)",€400k
+10,Morgan Gibbs-White,Attacking Midfield,"Jan 27, 2000 (24)",€40.00m
+20,Giovanni Reyna,Attacking Midfield,"Nov 13, 2002 (21)",€20.00m
+21,Anthony Elanga,Left Winger,"Apr 27, 2002 (21)",€18.00m
+14,Callum Hudson-Odoi,Left Winger,"Nov 7, 2000 (23)",€12.00m
+9,Taiwo Awoniyi,Centre-Forward,"Aug 12, 1997 (26)",€28.00m
+11,Chris Wood,Centre-Forward,"Dec 7, 1991 (32)",€7.00m
+27,Divock Origi,Centre-Forward,"Apr 18, 1995 (28)",€5.00m
+37,Rodrigo Ribeiro,Centre-Forward,"Apr 28, 2005 (18)",€3.00m
+13,Guglielmo Vicario,Goalkeeper,"Oct 7, 1996 (27)",€30.00m
+20,Fraser Forster,Goalkeeper,"Mar 17, 1988 (35)",€1.20m
+40,Brandon Austin,Goalkeeper,"Jan 8, 1999 (25)",€600k
+41,Alfie Whiteman,Goalkeeper,"Oct 2, 1998 (25)",€500k
+17,Cristian Romero,Centre-Back,"Apr 27, 1998 (25)",€65.00m
+37,Micky van de Ven,Centre-Back,"Apr 19, 2001 (22)",€45.00m
+6,Radu Drăgușin,Centre-Back,"Feb 3, 2002 (22)",€20.00m
+38,Destiny Udogie,Left-Back,"Nov 28, 2002 (21)",€40.00m
+33,Ben Davies,Left-Back,"Apr 24, 1993 (30)",€15.00m
+23,Pedro Porro,Right-Back,"Sep 13, 1999 (24)",€45.00m
+12,Emerson Royal,Right-Back,"Jan 14, 1999 (25)",€18.00m
+5,Pierre-Emile Højbjerg,Defensive Midfield,"Aug 5, 1995 (28)",€28.00m
+4,Oliver Skipp,Defensive Midfield,"Sep 16, 2000 (23)",€15.00m
+29,Pape Matar Sarr,Central Midfield,"Sep 14, 2002 (21)",€35.00m
+30,Rodrigo Bentancur,Central Midfield,"Jun 25, 1997 (26)",€35.00m
+8,Yves Bissouma,Central Midfield,"Aug 30, 1996 (27)",€30.00m
+19,Ryan Sessegnon,Left Midfield,"May 18, 2000 (23)",€13.00m
+10,James Maddison,Attacking Midfield,"Nov 23, 1996 (27)",€70.00m
+18,Giovani Lo Celso,Attacking Midfield,"Apr 9, 1996 (27)",€16.00m
+7,Heung-min Son,Left Winger,"Jul 8, 1992 (31)",€50.00m
+27,Manor Solomon,Left Winger,"Jul 24, 1999 (24)",€18.00m
+21,Dejan Kulusevski,Right Winger,"Apr 25, 2000 (23)",€55.00m
+22,Brennan Johnson,Right Winger,"May 23, 2001 (22)",€48.00m
+11,Bryan Gil,Right Winger,"Feb 11, 2001 (22)",€16.00m
+9,Richarlison,Centre-Forward,"May 10, 1997 (26)",€35.00m
+16,Timo Werner,Centre-Forward,"Mar 6, 1996 (27)",€17.00m
+23,Alphonse Areola,Goalkeeper,"Feb 27, 1993 (30)",€10.00m
+1,Lukasz Fabianski,Goalkeeper,"Apr 18, 1985 (38)",€700k
+49,Joseph Anang,Goalkeeper,"Jun 8, 2000 (23)",€300k
+27,Nayef Aguerd,Centre-Back,"Mar 30, 1996 (27)",€38.00m
+4,Kurt Zouma,Centre-Back,"Oct 27, 1994 (29)",€25.00m
+15,Konstantinos Mavropanos,Centre-Back,"Dec 11, 1997 (26)",€14.00m
+21,Angelo Ogbonna,Centre-Back,"May 23, 1988 (35)",€700k
+33,Emerson Palmieri,Left-Back,"Aug 3, 1994 (29)",€12.00m
+3,Aaron Cresswell,Left-Back,"Dec 15, 1989 (34)",€900k
+5,Vladimir Coufal,Right-Back,"Aug 22, 1992 (31)",€9.00m
+2,Ben Johnson,Right-Back,"Jan 24, 2000 (24)",€8.00m
+19,Edson Álvarez,Defensive Midfield,"Oct 24, 1997 (26)",€35.00m
+28,Tomas Soucek,Defensive Midfield,"Feb 27, 1995 (28)",€35.00m
+11,Kalvin Phillips,Defensive Midfield,"Dec 2, 1995 (28)",€28.00m
+7,James Ward-Prowse,Central Midfield,"Nov 1, 1994 (29)",€38.00m
+10,Lucas Paquetá,Attacking Midfield,"Aug 27, 1997 (26)",€65.00m
+14,Mohammed Kudus,Attacking Midfield,"Aug 2, 2000 (23)",€45.00m
+17,Maxwel Cornet,Left Winger,"Sep 27, 1996 (27)",€10.00m
+20,Jarrod Bowen,Right Winger,"Dec 20, 1996 (27)",€50.00m
+18,Danny Ings,Centre-Forward,"Jul 23, 1992 (31)",€9.00m
+9,Michail Antonio,Centre-Forward,"Mar 28, 1990 (33)",€6.00m
+45,Divin Mubama,Centre-Forward,"Oct 25, 2004 (19)",€1.00m
+1,José Sá,Goalkeeper,"Jan 17, 1993 (31)",€16.00m
+25,Daniel Bentley,Goalkeeper,"Jul 13, 1993 (30)",€2.00m
+40,Tom King,Goalkeeper,"Mar 9, 1995 (28)",€200k
+23,Max Kilman,Centre-Back,"May 23, 1997 (26)",€35.00m
+24,Toti,Centre-Back,"Jan 16, 1999 (25)",€14.00m
+4,Santiago Bueno,Centre-Back,"Nov 9, 1998 (25)",€8.00m
+15,Craig Dawson,Centre-Back,"May 6, 1990 (33)",€2.00m
+3,Rayan Aït-Nouri,Left-Back,"Jun 6, 2001 (22)",€28.00m
+17,Hugo Bueno,Left-Back,"Sep 18, 2002 (21)",€6.00m
+22,Nélson Semedo,Right-Back,"Nov 16, 1993 (30)",€15.00m
+2,Matt Doherty,Right-Back,"Jan 16, 1992 (32)",€4.00m
+5,Mario Lemina,Defensive Midfield,"Sep 1, 1993 (30)",€10.00m
+6,Boubacar Traoré,Defensive Midfield,"Aug 20, 2001 (22)",€6.00m
+8,João Gomes,Central Midfield,"Feb 12, 2001 (22)",€22.00m
+27,Jean-Ricner Bellegarde,Central Midfield,"Jun 27, 1998 (25)",€15.00m
+20,Tommy Doyle,Central Midfield,"Oct 17, 2001 (22)",€7.00m
+14,Noha Lemina,Attacking Midfield,"Jun 17, 2005 (18)",€500k
+30,Enso González,Left Winger,"Jan 20, 2005 (19)",€4.00m
+7,Pedro Neto,Right Winger,"Mar 9, 2000 (23)",€42.00m
+21,Pablo Sarabia,Right Winger,"May 11, 1992 (31)",€12.00m
+12,Matheus Cunha,Centre-Forward,"May 27, 1999 (24)",€32.00m
+11,Hee-chan Hwang,Centre-Forward,"Jan 26, 1996 (28)",€22.00m
+22,David Raya,Goalkeeper,"Sep 15, 1995 (28)",€35.00m
+1,Aaron Ramsdale,Goalkeeper,"May 14, 1998 (25)",€28.00m
+31,Karl Hein,Goalkeeper,"Apr 13, 2002 (21)",€2.00m
+2,William Saliba,Centre-Back,"Mar 24, 2001 (22)",€75.00m
+6,Gabriel Magalhães,Centre-Back,"Dec 19, 1997 (26)",€60.00m
+12,Jurrien Timber,Centre-Back,"Jun 17, 2001 (22)",€40.00m
+15,Jakub Kiwior,Centre-Back,"Feb 15, 2000 (23)",€25.00m
+35,Oleksandr Zinchenko,Left-Back,"Dec 15, 1996 (27)",€42.00m
+4,Ben White,Right-Back,"Oct 8, 1997 (26)",€55.00m
+18,Takehiro Tomiyasu,Right-Back,"Nov 5, 1998 (25)",€30.00m
+17,Cédric Soares,Right-Back,"Aug 31, 1991 (32)",€2.00m
+41,Declan Rice,Defensive Midfield,"Jan 14, 1999 (25)",€110.00m
+5,Thomas Partey,Defensive Midfield,"Jun 13, 1993 (30)",€25.00m
+20,Jorginho,Defensive Midfield,"Dec 20, 1991 (32)",€15.00m
+25,Mohamed Elneny,Defensive Midfield,"Jul 11, 1992 (31)",€4.50m
+8,Martin Ødegaard,Attacking Midfield,"Dec 17, 1998 (25)",€90.00m
+29,Kai Havertz,Attacking Midfield,"Jun 11, 1999 (24)",€55.00m
+21,Fábio Vieira,Attacking Midfield,"May 30, 2000 (23)",€28.00m
+10,Emile Smith Rowe,Attacking Midfield,"Jul 28, 2000 (23)",€25.00m
+11,Gabriel Martinelli,Left Winger,"Jun 18, 2001 (22)",€85.00m
+19,Leandro Trossard,Left Winger,"Dec 4, 1994 (29)",€38.00m
+7,Bukayo Saka,Right Winger,"Sep 5, 2001 (22)",€120.00m
+24,Reiss Nelson,Right Winger,"Dec 10, 1999 (24)",€15.00m
+27,Marquinhos,Right Winger,"Apr 7, 2003 (20)",€7.00m
+9,Gabriel Jesus,Centre-Forward,"Apr 3, 1997 (26)",€70.00m
+14,Eddie Nketiah,Centre-Forward,"May 30, 1999 (24)",€35.00m
+1,Emiliano Martínez,Goalkeeper,"Sep 2, 1992 (31)",€28.00m
+25,Robin Olsen,Goalkeeper,"Jan 8, 1990 (34)",€1.50m
+-,Joe Gauci,Goalkeeper,"Jul 4, 2000 (23)",€550k
+14,Pau Torres,Centre-Back,"Jan 16, 1997 (27)",€45.00m
+4,Ezri Konsa,Centre-Back,"Oct 23, 1997 (26)",€35.00m
+3,Diego Carlos,Centre-Back,"Mar 15, 1993 (30)",€16.00m
+5,Tyrone Mings,Centre-Back,"Mar 13, 1993 (30)",€16.00m
+17,Clément Lenglet,Centre-Back,"Jun 17, 1995 (28)",€8.00m
+30,Kortney Hause,Centre-Back,"Jul 16, 1995 (28)",€2.00m
+12,Lucas Digne,Left-Back,"Jul 20, 1993 (30)",€15.00m
+15,Álex Moreno,Left-Back,"Jun 8, 1993 (30)",€10.00m
+2,Matty Cash,Right-Back,"Aug 7, 1997 (26)",€28.00m
+16,Calum Chambers,Right-Back,"Jan 20, 1995 (29)",€5.00m
+44,Boubacar Kamara,Defensive Midfield,"Nov 23, 1999 (24)",€38.00m
+6,Douglas Luiz,Central Midfield,"May 9, 1998 (25)",€60.00m
+41,Jacob Ramsey,Central Midfield,"May 28, 2001 (22)",€42.00m
+7,John McGinn,Central Midfield,"Oct 18, 1994 (29)",€30.00m
+8,Youri Tielemans,Central Midfield,"May 7, 1997 (26)",€20.00m
+47,Tim Iroegbunam,Central Midfield,"Jun 30, 2003 (20)",€4.00m
+22,Nicolò Zaniolo,Attacking Midfield,"Jul 2, 1999 (24)",€25.00m
+31,Leon Bailey,Left Winger,"Aug 9, 1997 (26)",€30.00m
+27,Morgan Rogers,Left Winger,"Jul 26, 2002 (21)",€2.80m
+19,Moussa Diaby,Right Winger,"Jul 7, 1999 (24)",€60.00m
+10,Emiliano Buendía,Right Winger,"Dec 25, 1996 (27)",€22.00m
+11,Ollie Watkins,Centre-Forward,"Dec 30, 1995 (28)",€60.00m
+24,Jhon Durán,Centre-Forward,"Dec 13, 2003 (20)",€17.00m
+42,Mark Travers,Goalkeeper,"May 18, 1999 (24)",€3.50m
+20,Andrei Radu,Goalkeeper,"May 28, 1997 (26)",€3.00m
+1,Neto,Goalkeeper,"Jul 19, 1989 (34)",€2.50m
+12,Darren Randolph,Goalkeeper,"May 12, 1987 (36)",€300k
+27,Ilya Zabarnyi,Centre-Back,"Sep 1, 2002 (21)",€25.00m
+25,Marcos Senesi,Centre-Back,"May 10, 1997 (26)",€20.00m
+5,Lloyd Kelly,Centre-Back,"Oct 6, 1998 (25)",€16.00m
+6,Chris Mepham,Centre-Back,"Nov 5, 1997 (26)",€7.00m
+23,James Hill,Centre-Back,"Jan 10, 2002 (22)",€2.00m
+3,Milos Kerkez,Left-Back,"Nov 7, 2003 (20)",€20.00m
+37,Max Aarons,Right-Back,"Jan 4, 2000 (24)",€18.00m
+2,Ryan Fredericks,Right-Back,"Oct 10, 1992 (31)",€1.50m
+15,Adam Smith,Right-Back,"Apr 29, 1991 (32)",€1.00m
+18,Tyler Adams,Defensive Midfield,"Feb 14, 1999 (24)",€18.00m
+29,Philip Billing,Central Midfield,"Jun 11, 1996 (27)",€22.00m
+14,Alex Scott,Central Midfield,"Aug 21, 2003 (20)",€20.00m
+4,Lewis Cook,Central Midfield,"Feb 3, 1997 (27)",€10.00m
+8,Romain Faivre,Right Midfield,"Jul 14, 1998 (25)",€15.00m
+10,Ryan Christie,Attacking Midfield,"Feb 22, 1995 (28)",€12.00m
+16,Marcus Tavernier,Left Winger,"Mar 22, 1999 (24)",€17.00m
+17,Luis Sinisterra,Left Winger,"Jun 17, 1999 (24)",€17.00m
+19,Justin Kluivert,Left Winger,"May 5, 1999 (24)",€11.00m
+11,Dango Ouattara,Right Winger,"Feb 11, 2002 (21)",€20.00m
+24,Antoine Semenyo,Right Winger,"Jan 7, 2000 (24)",€10.00m
+9,Dominic Solanke,Centre-Forward,"Sep 14, 1997 (26)",€25.00m
+26,Enes Ünal,Centre-Forward,"May 10, 1997 (26)",€25.00m
+1,Mark Flekken,Goalkeeper,"Jun 13, 1993 (30)",€12.00m
+21,Thomas Strakosha,Goalkeeper,"Mar 19, 1995 (28)",€3.00m
+-,Hákon Rafn Valdimarsson,Goalkeeper,"Oct 13, 2001 (22)",€1.80m
+40,Ellery Balcombe,Goalkeeper,"Oct 15, 1999 (24)",€300k
+22,Nathan Collins,Centre-Back,"Apr 30, 2001 (22)",€25.00m
+20,Kristoffer Ajer,Centre-Back,"Apr 17, 1998 (25)",€18.00m
+5,Ethan Pinnock,Centre-Back,"May 29, 1993 (30)",€15.00m
+13,Zanka,Centre-Back,"Apr 23, 1990 (33)",€1.00m
+16,Ben Mee,Centre-Back,"Sep 21, 1989 (34)",€1.00m
+3,Rico Henry,Left-Back,"Jul 8, 1997 (26)",€25.00m
+12,Sergio Reguilón,Left-Back,"Dec 16, 1996 (27)",€10.00m
+2,Aaron Hickey,Right-Back,"Jun 10, 2002 (21)",€30.00m
+30,Mads Roerslev,Right-Back,"Jun 24, 1999 (24)",€8.00m
+27,Vitaly Janelt,Defensive Midfield,"May 10, 1998 (25)",€22.00m
+6,Christian Nørgaard,Defensive Midfield,"Mar 10, 1994 (29)",€20.00m
+-,Yunus Emre Konak,Defensive Midfield,"Jan 10, 2006 (18)",€1.80m
+8,Mathias Jensen,Central Midfield,"Jan 1, 1996 (28)",€30.00m
+10,Josh Dasilva,Central Midfield,"Oct 23, 1998 (25)",€12.00m
+15,Frank Onyeka,Central Midfield,"Jan 1, 1998 (26)",€9.00m
+26,Shandon Baptiste,Central Midfield,"Apr 8, 1998 (25)",€2.50m
+-,Ryan Trevitt,Central Midfield,"Mar 12, 2003 (20)",€275k
+33,Yegor Yarmolyuk,Attacking Midfield,"Mar 1, 2004 (19)",€2.50m
+14,Saman Ghoddos,Attacking Midfield,"Sep 6, 1993 (30)",€2.00m
+11,Yoane Wissa,Left Winger,"Sep 3, 1996 (27)",€25.00m
+23,Keane Lewis-Potter,Left Winger,"Feb 22, 2001 (22)",€12.00m
+24,Mikkel Damsgaard,Left Winger,"Jul 3, 2000 (23)",€10.00m
+19,Bryan Mbeumo,Right Winger,"Aug 7, 1999 (24)",€38.00m
+9,Kevin Schade,Right Winger,"Nov 27, 2001 (22)",€25.00m
+17,Ivan Toney,Centre-Forward,"Mar 16, 1996 (27)",€35.00m
+7,Neal Maupay,Centre-Forward,"Aug 14, 1996 (27)",€10.00m
+1,Bart Verbruggen,Goalkeeper,"Aug 18, 2002 (21)",€15.00m
+23,Jason Steele,Goalkeeper,"Aug 18, 1990 (33)",€3.50m
+38,Tom McGill,Goalkeeper,"Mar 25, 2000 (23)",€600k
+4,Adam Webster,Centre-Back,"Jan 4, 1995 (29)",€20.00m
+3,Igor,Centre-Back,"Feb 7, 1998 (26)",€17.00m
+29,Jan Paul van Hecke,Centre-Back,"Jun 8, 2000 (23)",€15.00m
+5,Lewis Dunk,Centre-Back,"Nov 21, 1991 (32)",€14.00m
+30,Pervis Estupiñán,Left-Back,"Jan 21, 1998 (26)",€35.00m
+-,Valentín Barco,Left-Back,"Jul 23, 2004 (19)",€13.00m
+2,Tariq Lamptey,Right-Back,"Sep 30, 2000 (23)",€12.00m
+34,Joël Veltman,Right-Back,"Jan 15, 1992 (32)",€10.00m
+20,Carlos Baleba,Defensive Midfield,"Jan 3, 2004 (20)",€20.00m
+11,Billy Gilmour,Defensive Midfield,"Jun 11, 2001 (22)",€18.00m
+41,Jack Hinshelwood,Defensive Midfield,"Apr 11, 2005 (18)",€7.00m
+15,Jakub Moder,Central Midfield,"Apr 7, 1999 (24)",€10.00m
+13,Pascal Groß,Central Midfield,"Jun 15, 1991 (32)",€8.00m
+6,James Milner,Central Midfield,"Jan 4, 1986 (38)",€1.00m
+40,Facundo Buonanotte,Attacking Midfield,"Dec 23, 2004 (19)",€12.00m
+14,Adam Lallana,Attacking Midfield,"May 10, 1988 (35)",€1.00m
+22,Kaoru Mitoma,Left Winger,"May 20, 1997 (26)",€50.00m
+31,Ansu Fati,Left Winger,"Oct 31, 2002 (21)",€30.00m
+24,Simon Adingra,Left Winger,"Jan 1, 2002 (22)",€25.00m
+7,Solly March,Right Winger,"Jul 20, 1994 (29)",€22.00m
+10,Julio Enciso,Second Striker,"Jan 23, 2004 (20)",€22.00m
+28,Evan Ferguson,Centre-Forward,"Oct 19, 2004 (19)",€65.00m
+9,João Pedro,Centre-Forward,"Sep 26, 2001 (22)",€35.00m
+18,Danny Welbeck,Centre-Forward,"Nov 26, 1990 (33)",€6.00m
+1,Robert Sánchez,Goalkeeper,"Nov 18, 1997 (26)",€30.00m
+28,Djordje Petrovic,Goalkeeper,"Oct 8, 1999 (24)",€9.00m
+13,Marcus Bettinelli,Goalkeeper,"May 24, 1992 (31)",€1.00m
+47,Lucas Bergström,Goalkeeper,"Sep 5, 2002 (21)",€800k
+26,Levi Colwill,Centre-Back,"Feb 26, 2003 (20)",€55.00m
+2,Axel Disasi,Centre-Back,"Mar 11, 1998 (25)",€42.00m
+5,Benoît Badiashile,Centre-Back,"Mar 26, 2001 (22)",€35.00m
+33,Wesley Fofana,Centre-Back,"Dec 17, 2000 (23)",€32.00m
+14,Trevoh Chalobah,Centre-Back,"Jul 5, 1999 (24)",€18.00m
+31,Malang Sarr,Centre-Back,"Jan 23, 1999 (25)",€4.00m
+6,Thiago Silva,Centre-Back,"Sep 22, 1984 (39)",€2.00m
+42,Alfie Gilchrist,Centre-Back,"Nov 28, 2003 (20)",€300k
+21,Ben Chilwell,Left-Back,"Dec 21, 1996 (27)",€30.00m
+3,Marc Cucurella,Left-Back,"Jul 22, 1998 (25)",€25.00m
+24,Reece James,Right-Back,"Dec 8, 1999 (24)",€50.00m
+27,Malo Gusto,Right-Back,"May 19, 2003 (20)",€25.00m
+25,Moisés Caicedo,Defensive Midfield,"Nov 2, 2001 (22)",€90.00m
+45,Roméo Lavia,Defensive Midfield,"Jan 6, 2004 (20)",€50.00m
+16,Lesley Ugochukwu,Defensive Midfield,"Mar 26, 2004 (19)",€25.00m
+8,Enzo Fernández,Central Midfield,"Jan 17, 2001 (23)",€80.00m
+23,Conor Gallagher,Central Midfield,"Feb 6, 2000 (24)",€42.00m
+17,Carney Chukwuemeka,Central Midfield,"Oct 20, 2003 (20)",€15.00m
+31,Cesare Casadei,Central Midfield,"Jan 10, 2003 (21)",€10.00m
+18,Christopher Nkunku,Attacking Midfield,"Nov 14, 1997 (26)",€75.00m
+20,Cole Palmer,Attacking Midfield,"May 6, 2002 (21)",€45.00m
+7,Raheem Sterling,Left Winger,"Dec 8, 1994 (29)",€45.00m
+10,Mykhaylo Mudryk,Left Winger,"Jan 5, 2001 (23)",€40.00m
+43,Diego Moreira,Left Winger,"Aug 6, 2004 (19)",€3.00m
+11,Noni Madueke,Right Winger,"Mar 10, 2002 (21)",€25.00m
+15,Nicolas Jackson,Centre-Forward,"Jun 20, 2001 (22)",€35.00m
+36,Deivid Washington,Centre-Forward,"Jun 5, 2005 (18)",€9.00m
+1,Sam Johnstone,Goalkeeper,"Mar 25, 1993 (30)",€12.00m
+30,Dean Henderson,Goalkeeper,"Mar 12, 1997 (26)",€12.00m
+41,Joe Whitworth,Goalkeeper,"Feb 29, 2004 (19)",€1.00m
+31,Remi Matthews,Goalkeeper,"Feb 10, 1994 (29)",€500k
+6,Marc Guéhi,Centre-Back,"Jul 13, 2000 (23)",€38.00m
+16,Joachim Andersen,Centre-Back,"May 31, 1996 (27)",€35.00m
+26,Chris Richards,Centre-Back,"Mar 28, 2000 (23)",€8.00m
+4,Rob Holding,Centre-Back,"Sep 20, 1995 (28)",€5.00m
+36,Nathan Ferguson,Centre-Back,"Oct 6, 2000 (23)",€1.00m
+5,James Tomkins,Centre-Back,"Mar 29, 1989 (34)",€700k
+3,Tyrick Mitchell,Left-Back,"Sep 1, 1999 (24)",€22.00m
+12,Daniel Muñoz,Right-Back,"May 26, 1996 (27)",€10.00m
+17,Nathaniel Clyne,Right-Back,"Apr 5, 1991 (32)",€1.50m
+2,Joel Ward,Right-Back,"Oct 29, 1989 (34)",€1.00m
+28,Cheick Doucouré,Defensive Midfield,"Jan 8, 2000 (24)",€35.00m
+8,Jefferson Lerma,Defensive Midfield,"Oct 25, 1994 (29)",€20.00m
+44,Jairo Riedewald,Defensive Midfield,"Sep 9, 1996 (27)",€2.00m
+20,Adam Wharton,Central Midfield,"Feb 6, 2004 (20)",€10.00m
+19,Will Hughes,Central Midfield,"Apr 17, 1995 (28)",€9.00m
+29,Naouirou Ahamada,Central Midfield,"Mar 29, 2002 (21)",€8.00m
+15,Jeffrey Schlupp,Left Midfield,"Dec 23, 1992 (31)",€7.00m
+10,Eberechi Eze,Attacking Midfield,"Jun 29, 1998 (25)",€48.00m
+11,Matheus França,Attacking Midfield,"Apr 1, 2004 (19)",€15.00m
+7,Michael Olise,Right Winger,"Dec 12, 2001 (22)",€50.00m
+49,Jesurun Rak-Sakyi,Right Winger,"Oct 5, 2002 (21)",€2.00m
+22,Odsonne Edouard,Centre-Forward,"Jan 16, 1998 (26)",€20.00m
+14,Jean-Philippe Mateta,Centre-Forward,"Jun 28, 1997 (26)",€7.00m
+9,Jordan Ayew,Centre-Forward,"Sep 11, 1991 (32)",€4.00m
+48,Luke Plange,Centre-Forward,"Nov 4, 2002 (21)",€1.20m
+1,Jordan Pickford,Goalkeeper,"Mar 7, 1994 (29)",€22.00m
+12,João Virgínia,Goalkeeper,"Oct 10, 1999 (24)",€800k
+31,Andy Lonergan,Goalkeeper,"Oct 19, 1983 (40)",€100k
+32,Jarrad Branthwaite,Centre-Back,"Jun 27, 2002 (21)",€25.00m
+6,James Tarkowski,Centre-Back,"Nov 19, 1992 (31)",€13.00m
+22,Ben Godfrey,Centre-Back,"Jan 15, 1998 (26)",€8.00m
+5,Michael Keane,Centre-Back,"Jan 11, 1993 (31)",€7.00m
+19,Vitaliy Mykolenko,Left-Back,"May 29, 1999 (24)",€28.00m
+18,Ashley Young,Left-Back,"Jul 9, 1985 (38)",€600k
+2,Nathan Patterson,Right-Back,"Oct 16, 2001 (22)",€15.00m
+23,Seamus Coleman,Right-Back,"Oct 11, 1988 (35)",€900k
+8,Amadou Onana,Defensive Midfield,"Aug 16, 2001 (22)",€50.00m
+37,James Garner,Defensive Midfield,"Mar 13, 2001 (22)",€20.00m
+16,Abdoulaye Doucouré,Central Midfield,"Jan 1, 1993 (31)",€12.00m
+21,André Gomes,Central Midfield,"Jul 30, 1993 (30)",€12.00m
+27,Idrissa Gueye,Central Midfield,"Sep 26, 1989 (34)",€4.00m
+62,Tyler Onyango,Central Midfield,"Mar 4, 2003 (20)",€500k
+20,Dele Alli,Attacking Midfield,"Apr 11, 1996 (27)",€5.00m
+7,Dwight McNeil,Left Winger,"Nov 22, 1999 (24)",€20.00m
+10,Arnaut Danjuma,Left Winger,"Jan 31, 1997 (27)",€17.00m
+61,Lewis Dobbin,Left Winger,"Jan 3, 2003 (21)",€1.00m
+11,Jack Harrison,Right Winger,"Nov 20, 1996 (27)",€22.00m
+9,Dominic Calvert-Lewin,Centre-Forward,"Mar 16, 1997 (26)",€22.00m
+14,Beto,Centre-Forward,"Jan 31, 1998 (26)",€22.00m
+28,Chermiti,Centre-Forward,"May 24, 2004 (19)",€9.00m
+17,Bernd Leno,Goalkeeper,"Mar 4, 1992 (31)",€13.00m
+1,Marek Rodak,Goalkeeper,"Dec 13, 1996 (27)",€3.00m
+23,Steven Benda,Goalkeeper,"Oct 1, 1998 (25)",€1.00m
+31,Issa Diop,Centre-Back,"Jan 9, 1997 (27)",€22.00m
+3,Calvin Bassey,Centre-Back,"Dec 31, 1999 (24)",€16.00m
+4,Tosin Adarabioyo,Centre-Back,"Sep 24, 1997 (26)",€12.00m
+13,Tim Ream,Centre-Back,"Oct 5, 1987 (36)",€1.00m
+33,Antonee Robinson,Left-Back,"Aug 8, 1997 (26)",€20.00m
+12,Fodé Ballo-Touré,Left-Back,"Jan 3, 1997 (27)",€3.00m
+21,Timothy Castagne,Right-Back,"Dec 5, 1995 (28)",€17.00m
+2,Kenny Tete,Right-Back,"Oct 9, 1995 (28)",€15.00m
+26,João Palhinha,Defensive Midfield,"Jul 9, 1995 (28)",€60.00m
+6,Harrison Reed,Central Midfield,"Jan 27, 1995 (29)",€18.00m
+28,Sasa Lukic,Central Midfield,"Aug 13, 1996 (27)",€10.00m
+10,Tom Cairney,Central Midfield,"Jan 20, 1991 (33)",€2.00m
+22,Alex Iwobi,Attacking Midfield,"May 3, 1996 (27)",€28.00m
+18,Andreas Pereira,Attacking Midfield,"Jan 1, 1996 (28)",€20.00m
+14,Bobby De Cordova-Reid,Attacking Midfield,"Feb 2, 1993 (31)",€6.00m
+20,Willian,Left Winger,"Aug 9, 1988 (35)",€3.00m
+8,Harry Wilson,Right Winger,"Mar 22, 1997 (26)",€17.00m
+11,Adama Traoré,Right Winger,"Jan 25, 1996 (28)",€9.00m
+9,Armando Broja,Centre-Forward,"Sep 10, 2001 (22)",€28.00m
+7,Raúl Jiménez,Centre-Forward,"May 5, 1991 (32)",€6.00m
+19,Rodrigo Muniz,Centre-Forward,"May 4, 2001 (22)",€5.00m
